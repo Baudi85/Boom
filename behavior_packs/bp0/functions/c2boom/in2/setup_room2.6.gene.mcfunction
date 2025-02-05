@@ -1,0 +1,1 @@
+summon foxy:creeper_pillager 625 49 211summon foxy:creeper_pillager 625 49 233summon foxy:creeper_pillager 649 50 215summon foxy:creeper_pillager 647 50 251summon foxy:creeper_pillager 652 49 239summon foxy:creeper_pillager 631 50 250function c2boom/in2/setup_room2.4b.genestructure load foxy:pillager_spawner 633 56 225structure load foxy:pillager_spawner 647 50 237

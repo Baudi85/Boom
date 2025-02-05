@@ -1,0 +1,1 @@
+scoreboard players set @s sch.big_warned 0scoreboard players set @s sch.big_coming 0scoreboard players set @s ids.big_facing 0scoreboard players set @s tmr.big_creep 1080scoreboard players set @s tmr.big_creep.xp 20scoreboard players set @s tmr.big_arrive 240scoreboard players set @s sch.big_witness 0

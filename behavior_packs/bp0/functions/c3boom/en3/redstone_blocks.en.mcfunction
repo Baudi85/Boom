@@ -1,0 +1,1 @@
+fill 863 167 -274 863 174 -273 redstone_block 0 replace wool 14fill 858 156 -277 858 155 -276 stonesetblock 861 165 -271 redstone_block

@@ -1,0 +1,1 @@
+execute @s[scores={ids.room=1}] ~ ~ ~ function c1boom/tr1/room1.1.trexecute @s[scores={ids.room=3}] ~ ~ ~ function c1boom/tr1/room1.3.trexecute @s[scores={ids.room=4}] ~ ~ ~ function c1boom/tr1/room1.4.trexecute @s[scores={ids.room=6}] ~ ~ ~ function c1boom/tr1/room1.6.trexecute @s[scores={ids.room=7..8}] ~ ~ ~ function c1boom/tr1/room1.7.tr

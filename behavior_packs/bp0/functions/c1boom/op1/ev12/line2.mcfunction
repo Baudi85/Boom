@@ -1,0 +1,1 @@
+scoreboard players set @s tmr.dialogue 80scoreboard players add @s cnt.dia.line 1

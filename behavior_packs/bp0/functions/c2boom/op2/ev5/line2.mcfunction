@@ -1,0 +1,1 @@
+scoreboard players set @s tmr.dialogue 30effect @a invisibility 999999 0 trueeffect @a speed 999999 0 truetp @e[type=foxy:argo_target] 631.0 55.0 272.5tp @e[type=foxy:bill_target] 628.0 54.0 270.0scoreboard players add @s cnt.dia.line 1

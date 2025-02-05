@@ -1,0 +1,1 @@
+execute @e[type=foxy:pacs_boom,scores={cnt.dia.line=-1}] ~ ~ ~ function cwboom/r1w/player.ub

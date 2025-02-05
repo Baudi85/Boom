@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","animation_controllers":{"controller.animation.creeper_trader.loot":{"initial_state":"default","states":{"default":{"transitions":[{"death":"!query.is_alive"}]},"death":{"on_entry":["/function cwboom/r2w/creeper_trader_loot.gene"]}}}}}

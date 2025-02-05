@@ -1,0 +1,1 @@
+playsound foxy.boom.3.18.6 @aexecute @a ~ ~ ~ playsound foxy.boom.3.18.2 @stitleraw @a actionbar {"rawtext":[{"translate":"foxy.boom.3.18.6"}]}scoreboard players set @s tmr.dialogue 18summon foxy:fear_target 765 180 -256summon foxy:bill_target 751 172 -278summon foxy:argo_target 762 182 -274scoreboard players add @s cnt.dia.line 1

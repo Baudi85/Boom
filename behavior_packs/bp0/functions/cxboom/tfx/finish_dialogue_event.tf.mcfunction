@@ -1,0 +1,1 @@
+scoreboard players add @s ids.dia.event 1scoreboard players set @s cnt.dia.line -1scoreboard players set @s tmr.dialogue -1effect @a haste 0 0 true

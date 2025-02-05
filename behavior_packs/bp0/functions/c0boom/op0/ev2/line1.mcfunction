@@ -1,0 +1,1 @@
+tellraw @a {"rawtext":[{"translate":"foxy.boom.0.2.1"}]}scoreboard players set @s tmr.dialogue 50setblock 690 68 272 airsummon foxy:roar_signal 694 69 271 foxy:front_doorsummon foxy:roar_signal 681 69 271 foxy:front_doorfunction plboom/update_lang.tfscoreboard players add @s cnt.dia.line 1

@@ -1,0 +1,1 @@
+setblock 743 49 237 lever 4setblock 728 49 237 lever 4clone 1 30 1 11 32 3 732 48 212summon foxy:creeper_wolf 722.5 49.0 213.0execute @e[type=foxy:pacs_boom,scores={tmr.dialogue=-1}] ~ ~ ~ setblock 736 49 229 stone_button 1

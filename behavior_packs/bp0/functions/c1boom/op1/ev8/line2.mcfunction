@@ -1,0 +1,1 @@
+playsound foxy.boom.1.8.2 @atellraw @a {"rawtext":[{"translate":"foxy.boom.1.8.2"}]}scoreboard players set @s tmr.dialogue 70setblock 829 72 210 redstone_blockfill 876 64 217 876 67 217 airsetblock 876 58 217 piston 0scoreboard players add @s cnt.dia.line 1

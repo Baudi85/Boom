@@ -1,0 +1,1 @@
+scoreboard players set @s ids.room 7playsound foxy.boom.checkpoint @atellraw @a {"rawtext":[{"translate":"foxy.boom.checkpoint"}]}tickingarea remove room2.4tickingarea remove room2.6setworldspawn 612 37 280tp @a[scores={tag.in_elevator=0}] 612.0 48.0 280.0 -90.0 0.0function pmboom/tfm/instant.silence.tf

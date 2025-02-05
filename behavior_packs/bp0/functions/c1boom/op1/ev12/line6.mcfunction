@@ -1,0 +1,1 @@
+scoreboard players set @s tmr.dialogue 10setblock 736 49 229 stone_button 1gamerule falldamage truescoreboard players add @s cnt.dia.line 1

@@ -1,0 +1,1 @@
+scoreboard players set @s tmr.dialogue 40function c2boom/op2/ev5/line0tp @e[type=foxy:argo_target] 631.0 55.0 272.5tp @e[type=foxy:bill_target] 628.0 54.0 270.0scoreboard players add @s cnt.dia.line 1

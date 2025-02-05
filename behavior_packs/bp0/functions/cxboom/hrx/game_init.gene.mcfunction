@@ -1,0 +1,1 @@
+setblock ~ ~6 ~ redstone_blockscoreboard players set @s sch.package 1scoreboard players set @s[scores={ids.quest=0,ids.dia.event=1,cnt.dia.line=-1}] cnt.dia.line 0

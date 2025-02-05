@@ -1,0 +1,1 @@
+event entity @e[type=foxy:kyle] foxy:dev_killexecute @p[r=3.43] ~~~ detect ~0 1 ~0 wool 9 execute @e[type=foxy:button_stand] ~~~ function cwboom/r3w/blast.gene

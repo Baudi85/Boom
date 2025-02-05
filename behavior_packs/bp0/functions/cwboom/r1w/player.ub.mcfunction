@@ -1,0 +1,1 @@
+execute @e[type=foxy:pacs_boom,scores={tmr.death=-1,tmr.dialogue=-1}] ~ ~ ~ function cwboom/r1w/player.protease

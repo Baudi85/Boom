@@ -1,0 +1,1 @@
+scoreboard players set @s cnt.dia.line 1scoreboard players set @s tmr.dialogue 5effect @a haste 9999 0 trueeffect @a saturation 999999 0 true

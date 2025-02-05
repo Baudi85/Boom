@@ -1,0 +1,1 @@
+playsound foxy.boom.checkpoint @ascoreboard players set @s ids.room 10tellraw @a {"rawtext":[{"translate":"foxy.boom.checkpoint"}]}tp @e[type=foxy:hayley_target] 685 48 190setworldspawn 678 48 189event entity @e[type=foxy:button_stand,x=686,y=49,z=181.0,r=4] foxy:lock

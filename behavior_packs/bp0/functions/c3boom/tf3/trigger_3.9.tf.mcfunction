@@ -1,0 +1,1 @@
+tp @e[type=creeper,r=2] 771 99 -155execute @p[r=2] ~ ~ ~ scoreboard players set @e[scores={ids.quest=3,ids.dia.event=9,cnt.dia.line=-1}] cnt.dia.line 0

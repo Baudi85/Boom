@@ -1,0 +1,1 @@
+playsound foxy.boom.1.15.1 @atellraw @a {"rawtext":[{"translate":"foxy.boom.1.15.1"}]}scoreboard players set @s tmr.dialogue 60function c1boom/op1/ev15/line0function c1boom/op1/ev15/lineleffect @a slowness 14 4 trueevent entity @e[type=foxy:kyle] foxy:scene_1_startscoreboard players add @s cnt.dia.line 1

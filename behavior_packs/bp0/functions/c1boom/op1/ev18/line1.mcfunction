@@ -1,0 +1,1 @@
+scoreboard players set @s tmr.dialogue 10tickingarea add 672 2 176 703 2 207 room1.10summon foxy:hayley_target 664 49.65 190tp @e[type=foxy:hayley] 677 48 204tp @e[type=foxy:argo] 692 48 186setworldspawn 667 48 199event entity @e[type=foxy:cmd_block] foxy:hide_commandscoreboard players add @s cnt.dia.line 1

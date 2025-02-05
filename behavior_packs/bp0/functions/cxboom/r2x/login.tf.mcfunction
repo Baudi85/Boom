@@ -1,0 +1,1 @@
+scoreboard players set @s sch.login 1event entity @s[scores={sch.login=1}] foxy:load_ready

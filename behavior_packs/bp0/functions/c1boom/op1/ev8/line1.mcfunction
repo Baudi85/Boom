@@ -1,0 +1,1 @@
+playsound random.door_open @a 835 73 206 2.0 1.0 2.0scoreboard players set @s tmr.dialogue 100function c1boom/op1/ev8/line0scoreboard players add @s cnt.dia.line 1

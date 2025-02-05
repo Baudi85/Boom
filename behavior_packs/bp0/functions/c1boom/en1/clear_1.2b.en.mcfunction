@@ -1,0 +1,1 @@
+setblock 771 59 170 airsetblock 777 59 172 airkill @e[type=foxy:creeper_parrot]kill @e[type=foxy:creeper_sheep]kill @e[type=foxy:creeper_cow]kill @e[type=foxy:cat_sentry]scoreboard players set @s ids.room 0

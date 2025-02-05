@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","animation_controllers":{"controller.animation.crazy_cat_lady.tame_flag":{"initial_state":"untamed","states":{"untamed":{"transitions":[{"tamed":"query.is_tamed"}]},"tamed":{"on_entry":["/function c2boom/tf2/crazy_cat_lady_tame.tf","@s foxy:remove_flag"]}}}}}

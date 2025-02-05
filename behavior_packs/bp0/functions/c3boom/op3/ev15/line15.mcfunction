@@ -1,0 +1,1 @@
+tellraw @a {"rawtext":[{"translate":"foxy.boom.3.15.15"}]}scoreboard players set @s tmr.dialogue 75tp @e[type=foxy:bill_target] 815.5 192.0 -252.5tp @e[type=foxy:argo_target] 812.0 193.0 -257.5tp @a 812.0 193.0 -257.5scoreboard players add @s cnt.dia.line 1

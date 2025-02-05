@@ -1,0 +1,1 @@
+scoreboard players set @s ids.room 0tickingarea add 608 2 128 671 2 223 room2.7

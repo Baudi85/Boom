@@ -1,0 +1,1 @@
+playsound foxy.boom.1.8.3 @atellraw @a {"rawtext":[{"translate":"foxy.boom.1.8.3"}]}scoreboard players set @s tmr.dialogue 10event entity @e[type=foxy:argo_target] foxy:dev_killfill 876 60 220 876 59 220 airscoreboard players add @s cnt.dia.line 1

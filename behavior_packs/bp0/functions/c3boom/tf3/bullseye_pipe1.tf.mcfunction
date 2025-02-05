@@ -1,0 +1,1 @@
+fill 853 62 -286 853 60 -284 concrete 13 replace concrete 14execute @a ~ ~ ~ playsound note.bit @s ~ ~ ~ 2.0 1.0fill 841 65 -281 842 65 -278 air 0 destroyparticle foxy:large_boom_explosion 842.0 65.0 -279.0

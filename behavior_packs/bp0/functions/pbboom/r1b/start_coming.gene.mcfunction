@@ -1,0 +1,1 @@
+function pmboom/tfm/instant.track9.tffunction pbboom/r1b/resume.tfscoreboard players set @s sch.big_coming 1tellraw @s {"rawtext":[{"translate":"foxy.boom.big_creep.coming"}]}

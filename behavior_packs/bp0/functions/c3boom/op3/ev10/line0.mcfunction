@@ -1,0 +1,1 @@
+scoreboard players set @s ids.room 8playsound foxy.boom.checkpoint @atellraw @a {"rawtext":[{"translate":"foxy.boom.checkpoint"}]}setworldspawn 818 99 -168function pmboom/tfm/play.track8.tf

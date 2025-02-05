@@ -1,0 +1,1 @@
+scoreboard players set @s tmr.dialogue 10effect @e[tag=creditsroom] clearsetblock 639 91 169 airfunction pmboom/tfm/play.track1.tfscoreboard players add @s cnt.dia.line 1

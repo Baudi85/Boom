@@ -1,0 +1,1 @@
+execute @e[type=foxy:pacs_boom,scores={sch.debug_board=1}] ~ ~ ~ function cxboom/hrx/dev_scoreboardexecute @e[type=foxy:pacs_boom,scores={sch.core_running=2}] ~ ~ ~ function cxboom/hrx/rna.polymeraseexecute @e[type=foxy:pacs_boom,scores={sch.core_running=3}] ~ ~ ~ function cxboom/hix/delay.histone

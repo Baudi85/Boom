@@ -1,0 +1,1 @@
+setblock 793 53 205 redstone_torchexecute @a ~ ~ ~ playsound foxy.boom.checkpoint @stellraw @a {"rawtext":[{"translate":"foxy.boom.lock1_unlocked"}]}

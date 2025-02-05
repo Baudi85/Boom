@@ -1,0 +1,1 @@
+fill 702 46 199 702 46 200 redstone_torchevent entity @e[type=foxy:hayley_target] foxy:dev_killsummon foxy:hayley_target 692 49 196function pmboom/tfm/play.silence.tf

@@ -1,0 +1,1 @@
+scoreboard players set @s ids.room 10playsound foxy.boom.checkpoint @atellraw @a {"rawtext":[{"translate":"foxy.boom.checkpoint"}]}setworldspawn 878 125 -216tickingarea remove room3.789function cwboom/r1w/setup_room.tftime set 12500

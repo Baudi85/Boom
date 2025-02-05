@@ -1,0 +1,1 @@
+titleraw @a actionbar {"rawtext":[{"translate":"foxy.boom.0.4.25"}]}scoreboard players set @s tmr.dialogue 64scoreboard players add @s cnt.dia.line 1

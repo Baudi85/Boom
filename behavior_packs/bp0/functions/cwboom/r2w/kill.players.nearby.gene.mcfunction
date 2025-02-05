@@ -1,0 +1,1 @@
+execute @p[r=4] ~ ~ ~ function cwboom/r1w/player.ubevent entity @e[type=foxy:creeper_tnt,r=2,c=1] foxy:light_fuse

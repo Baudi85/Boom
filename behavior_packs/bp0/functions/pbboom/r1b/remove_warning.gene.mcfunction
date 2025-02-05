@@ -1,0 +1,1 @@
+scoreboard players set @s sch.big_warned 0scoreboard players set @s tmr.big_creep.xp 20

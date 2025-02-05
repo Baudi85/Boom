@@ -1,0 +1,1 @@
+execute @s[scores={tmr.music=1,ids.track=7}] ~~~ function pmboom/opm/ev7/loop.operonexecute @s[scores={tmr.music=1,ids.track=!7}] ~~~ function pmboom/opm/ev7/fade.operonexecute @s[scores={tmr.music=0}] ~~~ function pmboom/opm/ev7/play.gene

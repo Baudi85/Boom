@@ -1,0 +1,1 @@
+scoreboard players set @s ids.room 0execute @a ~ ~ ~ playsound note.bit @s ~ ~ ~ 2.0 1.0summon foxy:argo_target 631.0 55.0 272.5summon foxy:bill_target 628.0 54.0 270.0

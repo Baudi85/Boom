@@ -1,0 +1,1 @@
+playsound foxy.boom.1.13.5 @ascoreboard players set @s tmr.dialogue 10clone 1 18 1 11 20 3 732 48 212scoreboard players add @s cnt.dia.line 1

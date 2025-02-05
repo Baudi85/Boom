@@ -1,0 +1,1 @@
+stopsound @a record.chirpscoreboard players set @s tmr.dialogue 15scoreboard players add @s cnt.dia.line 1

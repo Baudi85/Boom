@@ -1,0 +1,1 @@
+scoreboard players set @s ids.room 55tickingarea add 720 1 256 767 1 303 room1.6tp @e[type=foxy:argo] 832 72 212tp @e[type=foxy:hayley] 755 55 286summon foxy:argo_target 832 73.6 206tickingarea remove room1.5setworldspawn 833 72 204function cwboom/r1w/entity.protease

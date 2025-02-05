@@ -1,0 +1,1 @@
+scoreboard players set @s tmr.dialogue 60function c2boom/op2/ev10/linelfunction cwboom/r1w/setup_room.tffunction pmboom/tfm/instant.track4.tfscoreboard players add @s cnt.dia.line 1

@@ -1,0 +1,1 @@
+playsound foxy.boom.1.13.1 @ascoreboard players set @s tmr.dialogue 30function c1boom/op1/ev13/line0scoreboard players add @s cnt.dia.line 1

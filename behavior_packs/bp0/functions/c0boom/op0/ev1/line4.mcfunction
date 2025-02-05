@@ -1,0 +1,1 @@
+execute @a ~ ~ ~ playsound block.barrel.open @s ~ ~ ~ 2 0.6 2scoreboard players set @s tmr.dialogue 38setblock 686 68 317 stone_slab 8setblock 686 67 317 airfunction plboom/update_lang.tfsummon foxy:argo_target 685.5 66.0 317.5summon foxy:bill_target 685.5 66.0 317.5scoreboard players add @s cnt.dia.line 1

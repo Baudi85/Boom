@@ -1,0 +1,1 @@
+setblock 7 8 6 wool 14setblock 7 8 8 wool 14setblock 839 128 -158 emerald_blockfill 840 129 -149 840 126 -154 iron_blockclone 0 59 0 4 68 5 822 120 -197fill 838 129 -159 838 127 -157 concrete 14 replace concrete 13summon foxy:rocket_platform 824 122 -195

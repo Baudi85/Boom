@@ -1,0 +1,1 @@
+scoreboard players set @s sch.big_warned 1tellraw @s {"rawtext":[{"translate":"foxy.boom.big_creep.warning"}]}

@@ -1,0 +1,1 @@
+execute @a ~ ~ ~ playsound random.fuse @s ~ ~ ~ 2 1 2scoreboard players set @s tmr.dialogue 50event entity @e[type=foxy:freight_elevator] foxy:start_hissscoreboard players add @s cnt.dia.line 1

@@ -1,0 +1,1 @@
+playsound random.break @a ~ ~ ~ 2 0.5 1playsound foxy.boom.pile_land @a ~ ~ ~ 1 0.7 1kill @s

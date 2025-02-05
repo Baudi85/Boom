@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","animation_controllers":{"controller.animation.button_stand.elevator1_signal":{"initial_state":"unpressed","states":{"unpressed":{"transitions":[{"pressed":"query.is_powered"}]},"pressed":{"transitions":[{"unpressed":"!query.is_powered"}],"on_entry":["/function cwboom/r3w/blast.tf"]}}}}}

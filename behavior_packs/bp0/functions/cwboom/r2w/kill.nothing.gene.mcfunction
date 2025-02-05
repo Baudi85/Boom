@@ -1,0 +1,1 @@
+playsound random.explodeparticle minecraft:huge_explosion_emitter ~ ~ ~kill @s

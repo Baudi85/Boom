@@ -1,0 +1,1 @@
+scoreboard players set @s sch.new_player 1effect @s saturation 999999 100 trueclearspawnpoint @sfunction cwboom/inw/login.genefunction pmboom/inm/login.genefunction pbboom/inb/login.geneevent entity @s foxy:finish_login

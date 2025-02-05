@@ -1,0 +1,1 @@
+scoreboard players add @s tmr.big_creep 1scoreboard players add @s[scores={tmr.big_creep.xp=..20}] tmr.big_creep.xp 1scoreboard players set @s[scores={tmr.big_creep.xp=21}] tmr.big_creep.xp 1

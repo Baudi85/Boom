@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","animation_controllers":{"controller.animation.cmd_block.fix_command":{"initial_state":"default","states":{"default":{"transitions":[{"replace":"1"}]},"replace":{"on_entry":["/function c1boom/tf1/trigger_1.17.tf","@s foxy:dev_kill"]}}}}}

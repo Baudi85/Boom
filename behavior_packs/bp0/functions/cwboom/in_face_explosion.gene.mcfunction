@@ -1,0 +1,1 @@
+particle foxy:screen_boom_explosion ^ ^ ^1.4particle minecraft:large_explosion ^ ^1.5 ^1particle foxy:screen_boom_explosion ^ ^ ^-1.4particle minecraft:large_explosion ^ ^1.5 ^-1

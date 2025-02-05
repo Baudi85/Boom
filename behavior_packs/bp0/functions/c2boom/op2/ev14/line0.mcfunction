@@ -1,0 +1,1 @@
+scoreboard players set @s ids.room 10setworldspawn 743 41 136tickingarea remove room2.9tickingarea add 736 28 112 767 42 143 room2.10tickingarea add 656 41 216 719 39 287 room2.11function cwboom/r1w/setup_room.tffunction pmboom/tfm/play.track1.tf

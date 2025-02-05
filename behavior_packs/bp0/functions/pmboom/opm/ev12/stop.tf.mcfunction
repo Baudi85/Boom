@@ -1,0 +1,9 @@
+stopsound @a foxy.boom.music.pipes.intro.1
+stopsound @a foxy.boom.music.pipes.loop.1
+stopsound @a foxy.boom.music.pipes.loop.2
+stopsound @a foxy.boom.music.pipes.loop.3
+stopsound @a foxy.boom.music.pipes.loop.4
+stopsound @a foxy.boom.music.pipes.loop.1f
+stopsound @a foxy.boom.music.pipes.loop.2f
+stopsound @a foxy.boom.music.pipes.loop.3f
+stopsound @a foxy.boom.music.pipes.loop.4f

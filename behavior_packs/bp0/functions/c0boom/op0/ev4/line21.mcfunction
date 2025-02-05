@@ -1,0 +1,1 @@
+execute @a ~ ~ ~ playsound block.barrel.open @s ~ ~ ~ 2 0.6 2scoreboard players set @s tmr.dialogue 12fill 702 67 231 702 67 226 airfill 702 68 231 702 68 226 stone_slab 8tp @e[type=foxy:argo_target] 712 67.6 182scoreboard players add @s cnt.dia.line 1

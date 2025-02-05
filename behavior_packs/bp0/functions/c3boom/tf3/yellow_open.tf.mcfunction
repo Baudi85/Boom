@@ -1,0 +1,1 @@
+execute @a ~ ~ ~ playsound note.bit @s ~ ~ ~ 2.0 1.0setblock 7 8 6 redstone_blockfill 838 129 -159 838 127 -157 concrete 13 replace concrete 14

@@ -1,0 +1,1 @@
+scoreboard players set @s sch.core_running 2

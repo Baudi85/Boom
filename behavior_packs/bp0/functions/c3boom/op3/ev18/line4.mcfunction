@@ -1,0 +1,1 @@
+playsound foxy.boom.3.18.4 @atitleraw @a actionbar {"rawtext":[{"translate":"foxy.boom.3.18.4"}]}scoreboard players set @s tmr.dialogue 15event entity @e[type=foxy:hayley_target] foxy:dev_killexecute @e[type=foxy:hayley] ~ ~ ~ tp @s ~ ~ ~ facing 757 199 -256execute @e[type=foxy:hayley] ~ ~ ~ tp @s ~ ~ ~ facing 757 199 -256scoreboard players add @s cnt.dia.line 1

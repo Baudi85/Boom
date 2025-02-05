@@ -1,0 +1,1 @@
+scoreboard players set @s ids.room 12setworldspawn 781 26 282tickingarea remove room2.11function cwboom/r1w/setup_room.tf

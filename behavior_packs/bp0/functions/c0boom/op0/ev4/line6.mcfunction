@@ -1,0 +1,1 @@
+playsound foxy.boom.0.4.6 @atellraw @a {"rawtext":[{"translate":"foxy.boom.0.4.6"}]}scoreboard players set @s tmr.dialogue 55tp @e[type=foxy:hayley_target] 700 67.8 227tp @e[type=foxy:bill_target] 679 68.6 248scoreboard players add @s cnt.dia.line 1

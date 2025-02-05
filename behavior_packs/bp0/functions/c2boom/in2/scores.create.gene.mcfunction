@@ -1,0 +1,1 @@
+scoreboard objectives add sch.room2.4b dummyscoreboard objectives add sch.room2.6b dummyscoreboard objectives add sch.cat_lady dummyscoreboard objectives add tmr.moo dummyexecute @e[type=foxy:pacs_boom] ~ ~ ~ function c2boom/in2/scores.set.gene

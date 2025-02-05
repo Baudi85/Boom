@@ -1,0 +1,1 @@
+scoreboard players set @s tmr.dialogue 20tp @e[type=foxy:argo_target] 697 67.6 231event entity @e[type=foxy:bill_target] foxy:dev_killscoreboard players add @s cnt.dia.line 1

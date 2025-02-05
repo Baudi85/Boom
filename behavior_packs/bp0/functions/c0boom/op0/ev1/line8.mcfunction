@@ -1,0 +1,1 @@
+playsound foxy.boom.0.1.8 @ascoreboard players set @s tmr.dialogue 20tp @e[type=foxy:bill_target] 680.76 75.98 305.69tp @e[type=foxy:argo_target] 667.0 76.5 318.0tp @a 667.0 76.5 318.0 facing @e[type=foxy:bill_target,c=1]scoreboard players add @s cnt.dia.line 1

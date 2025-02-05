@@ -1,0 +1,1 @@
+execute @e[type=foxy:creeper_cow] ~ ~ ~ playsound foxy.boom.2.1.c @a ~ ~ ~ 2.0 0.9 2.0scoreboard players set @s tmr.moo 25

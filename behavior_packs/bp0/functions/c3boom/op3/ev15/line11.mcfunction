@@ -1,0 +1,1 @@
+scoreboard players set @s tmr.dialogue 50tp @e[type=foxy:argo_target] 802.5 188.0 -272.5scoreboard players add @s cnt.dia.line 1

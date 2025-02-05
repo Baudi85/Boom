@@ -1,0 +1,1 @@
+execute @a ~ ~ ~ playsound block.barrel.open @s ~ ~ ~ 2 0.6 2scoreboard players set @s tmr.dialogue 6fill 610 52 256 614 52 256 airscoreboard players add @s cnt.dia.line 1

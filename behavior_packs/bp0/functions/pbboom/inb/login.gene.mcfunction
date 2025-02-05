@@ -1,0 +1,1 @@
+scoreboard players set @s[scores={ids.bounds=0}] tmr.big_creep 1080scoreboard players set @s tmr.big_creep.xp 20

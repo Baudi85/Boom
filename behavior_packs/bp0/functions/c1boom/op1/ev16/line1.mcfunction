@@ -1,0 +1,1 @@
+tellraw @a {"rawtext":[{"translate":"foxy.boom.1.16.1"}]}

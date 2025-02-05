@@ -1,0 +1,1 @@
+scoreboard players operation @s ids.track = @s ids.track.save

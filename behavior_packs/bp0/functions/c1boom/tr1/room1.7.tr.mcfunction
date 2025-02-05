@@ -1,0 +1,1 @@
+execute @e[type=foxy:creeper_pig,r=2.5,c=1] ~ ~ ~ summon foxy:creeper_pig 725 60 222event entity @e[type=foxy:creeper_pig,r=2.5,c=1] foxy:dev_killexecute @e[type=foxy:creeper_cow,r=2.5,c=1] ~ ~ ~ summon foxy:creeper_cow 746 60 215event entity @e[type=foxy:creeper_cow,r=2.5,c=1] foxy:dev_kill

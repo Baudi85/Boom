@@ -1,0 +1,1 @@
+fill 842 43 219 842 45 225 airexecute @a ~ ~ ~ playsound block.barrel.open @s 841 44 224 2 0.6

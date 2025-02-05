@@ -1,0 +1,1 @@
+titleraw @a subtitle {"rawtext":[{"translate":"foxy.boom.1.15.3"}]}scoreboard players set @s tmr.dialogue 25scoreboard players add @s cnt.dia.line 1

@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","animation_controllers":{"controller.animation.cat_cannon.button_controller":{"initial_state":"unpressed","states":{"unpressed":{"transitions":[{"pressed":"query.is_powered"}]},"pressed":{"animations":["pressed","sound","particle"],"transitions":[{"unpressed":"!query.is_powered"}]}}}}}

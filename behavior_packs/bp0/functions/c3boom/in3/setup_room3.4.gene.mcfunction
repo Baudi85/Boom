@@ -1,0 +1,1 @@
+clone 6 9 14 7 9 14 755 33 -74setblock 753 32 -77 wool 14summon foxy:creeper_trader 770 32 -39

@@ -1,0 +1,1 @@
+scoreboard players set @s sch.room2.4b 0scoreboard players set @s sch.room2.6b 0scoreboard players set @s sch.cat_lady 0scoreboard players set @s tmr.moo -1

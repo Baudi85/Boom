@@ -1,0 +1,1 @@
+execute @p ~ ~ ~ function cyboom/iny/setup.tf

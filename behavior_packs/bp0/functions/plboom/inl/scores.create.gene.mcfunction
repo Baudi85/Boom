@@ -1,0 +1,1 @@
+scoreboard objectives add ids.lang dummy "§6ids§1.§6lang§r"execute @e[type=foxy:pacs_boom] ~ ~ ~ function plboom/inl/scores.set.gene

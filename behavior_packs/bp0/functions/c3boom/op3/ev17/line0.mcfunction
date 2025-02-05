@@ -1,0 +1,1 @@
+scoreboard players set @s ids.room 0scoreboard players set @s sch.package 2replaceitem entity @a slot.hotbar 0 beehivesummon creeper 744 195 -244 foxy:final_room

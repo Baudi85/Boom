@@ -1,0 +1,1 @@
+tellraw @a {"rawtext":[{"translate":"pacs.setup.start"}]}summon foxy:pacs_boom ~-5 ~1 ~2setblock ~-5 ~1 ~-9 redstone_blocksetblock ~ ~1 ~1 airtickingarea add ~ ~ ~ ~ ~ ~ command_corefunction cxboom/inx/scores.create.genefunction cxboom/tfx/mode_dev.tftime set day

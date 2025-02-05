@@ -1,0 +1,1 @@
+execute @a ~ ~ ~ playsound beacon.activate @s ~ ~ ~ 4.0 0.5execute @a ~ ~ ~ playsound item.trident.return @s ~ ~ ~ 4.0 0.5execute @a ~ ~ ~ playsound mob.wither.spawn @s ~ ~ ~ 4.0 0.5titleraw @a clearscoreboard players set @s tmr.dialogue 80function c3boom/op3/ev18/line0scoreboard players add @s cnt.dia.line 1

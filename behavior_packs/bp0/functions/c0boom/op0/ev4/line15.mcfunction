@@ -1,0 +1,1 @@
+playsound foxy.boom.0.4.15 @atellraw @a {"rawtext":[{"translate":"foxy.boom.0.4.15"}]}scoreboard players set @s tmr.dialogue 60event entity @e[type=foxy:hayley] foxy:follow_playerscoreboard players add @s cnt.dia.line 1

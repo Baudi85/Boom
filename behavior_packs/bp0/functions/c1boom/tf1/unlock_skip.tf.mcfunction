@@ -1,0 +1,1 @@
+execute @p ~ ~ ~ detect 727 66 236 redstone_block -1 tellraw @a {"rawtext":[{"translate":"foxy.boom.skip_unlocked"}]}fill 727 66 236 727 66 233 wool 14 replace redstone_block

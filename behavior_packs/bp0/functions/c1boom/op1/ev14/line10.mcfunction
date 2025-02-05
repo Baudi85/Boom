@@ -1,0 +1,1 @@
+scoreboard players set @s tmr.dialogue 5event entity @e[type=foxy:hayley_target] foxy:dev_killsetblock 703 49 198 stone_button 5scoreboard players add @s cnt.dia.line 1

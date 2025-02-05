@@ -1,0 +1,1 @@
+replaceitem entity @a slot.hotbar 2 clay_ball 1 0 {"minecraft:item_lock":{"mode":"lock_in_slot"}}scoreboard players set @s sch.whiskerocket 1function cwboom/r1w/setup_room.tftickingarea add 1008 44 -352 1023 68 -337 room3.2atickingarea add 928 35 -416 943 64 -401 room3.2btickingarea add 848 44 -432 911 68 -401 room3.2c

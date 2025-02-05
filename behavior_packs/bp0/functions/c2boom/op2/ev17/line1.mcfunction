@@ -1,0 +1,1 @@
+scoreboard players set @s tmr.dialogue 10setworldspawn 813 49 168scoreboard players add @s cnt.dia.line 1

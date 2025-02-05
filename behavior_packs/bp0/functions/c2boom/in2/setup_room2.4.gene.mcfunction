@@ -1,0 +1,1 @@
+function c2boom/in2/setup_room2.4b.genefill 640 62 269 639 62 269 airsetblock 641 62 269 sealanternsetblock 642 69 265 emerald_blockfill 641 68 264 643 70 266 concrete 14 replace concrete 13fill 642 62 265 642 68 265 airfill 642 70 265 642 71 265 sandsummon foxy:creeper_evoker 643 49 268summon foxy:creeper_spider 641 63 269

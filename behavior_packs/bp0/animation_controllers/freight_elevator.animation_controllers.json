@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","animation_controllers":{"controller.animation.freight_elevator.event_2.10_signal":{"initial_state":"start","states":{"start":{"transitions":[{"signal":"query.variant==2"}]},"signal":{"transitions":[{"start":"query.variant!=2"}],"on_entry":["/function c2boom/tf2/trigger_2.10.tf"]}}}}}

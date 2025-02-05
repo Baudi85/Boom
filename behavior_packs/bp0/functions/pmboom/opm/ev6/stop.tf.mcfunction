@@ -1,0 +1,1 @@
+stopsound @a foxy.boom.music.alarm.loop.1stopsound @a foxy.boom.music.alarm.loop.2stopsound @a foxy.boom.music.alarm.loop.3stopsound @a foxy.boom.music.alarm.loop.1fstopsound @a foxy.boom.music.alarm.loop.2fstopsound @a foxy.boom.music.alarm.loop.3f

@@ -1,0 +1,1 @@
+setblock 1 8 6 redstone_blocksetblock 7 8 1 redstone_blockexecute @e[type=foxy:pacs_boom] ~ ~ ~ detect 1 8 1 wool 14 tp @e[type=foxy:fear_target,x=820,dx=20,y=41,dy=4,z=220,dz=4] 822 43.75 222execute @e[type=foxy:pacs_boom] ~ ~ ~ detect 1 8 1 redstone_block 0 tp @e[type=foxy:fear_target,x=820,dx=20,y=41,dy=4,z=220,dz=4] 827 43.75 222

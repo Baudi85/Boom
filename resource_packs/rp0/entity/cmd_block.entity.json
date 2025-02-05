@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","minecraft:client_entity":{"description":{"identifier":"foxy:cmd_block","materials":{"default":"foxy_glow"},"textures":{"default":"textures/foxy/entity/cmd_block"},"geometry":{"default":"geometry.foxy_technical"},"render_controllers":["controller.render.foxy_normal"],"spawn_egg":{"base_color":"#f58b00","overlay_color":"#eee3ae"}}}}

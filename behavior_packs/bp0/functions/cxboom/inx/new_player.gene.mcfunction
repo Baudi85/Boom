@@ -1,0 +1,1 @@
+scoreboard players set @s sch.new_player 1gamemode adventure @sfunction cwboom/inw/new_player.genefunction pbboom/inb/new_player.genefunction pmboom/inm/new_player.genetp @s @p[c=-1,tag=!dev]tp @s[x=693,dx=1,y=66,dy=6,z=317,dz=1] 693 66 317 -125 0event entity @s[scores={sch.new_player=1}] foxy:finish_setup

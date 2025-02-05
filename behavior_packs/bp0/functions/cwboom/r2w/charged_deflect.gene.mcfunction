@@ -1,0 +1,1 @@
+playsound foxy.boom.mob.creeper.deflect1 @a ~ ~ ~ 2 1 2playsound foxy.boom.mob.creeper.deflect2 @a ~ ~ ~ 2 1 2particle foxy:creeper_deflect ~ ~2 ~tellraw @a[r=64,scores={sch.chargeinfo=0}] {"rawtext":[{"translate":"foxy.boom.chargeinfo"}]}scoreboard players set @a[r=64,scores={sch.chargeinfo=0}] sch.chargeinfo 1

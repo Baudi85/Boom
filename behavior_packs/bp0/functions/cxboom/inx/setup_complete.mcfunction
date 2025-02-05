@@ -1,0 +1,1 @@
+clone ~ ~-2 ~ ~ ~-2 ~ ~5 ~-1 ~-2setblock ~9 ~ ~-1 stone_button 3setblock ~7 ~ ~-8 stone_button 3setblock ~5 ~ ~-8 stone_button 3setblock ~3 ~ ~-8 stone_button 3setblock ~8 ~ ~-7 stone_button 4setblock ~ ~ ~-11 wool 14function tick_speedplaysound block.false_permissions @a[r=20] ~10 ~-6 ~ 2.0tellraw @a {"rawtext":[{"translate":"pacs.setup.complete"}]}

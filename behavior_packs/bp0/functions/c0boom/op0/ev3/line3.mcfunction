@@ -1,0 +1,1 @@
+scoreboard players set @s tmr.dialogue 52effect @a slowness 0 4 trueevent entity @a foxy:freezescoreboard players add @s cnt.dia.line 1

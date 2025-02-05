@@ -1,0 +1,1 @@
+scoreboard players set @s ids.dia.event 1scoreboard players add @s ids.quest 1

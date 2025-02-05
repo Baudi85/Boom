@@ -1,0 +1,1 @@
+scoreboard players set @s ids.room 4playsound foxy.boom.checkpoint @atellraw @a {"rawtext":[{"translate":"foxy.boom.checkpoint"}]}tickingarea add 816 1 192 847 1 239 room1.5tp @e[type=foxy:hayley] 792 55 250setworldspawn 791 55 241function cwboom/r1w/setup_room.tf

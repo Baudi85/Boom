@@ -1,0 +1,1 @@
+execute @e[type=foxy:pacs_boom,scores={tmr.angry=-6,tmr.death=-1}] ~ ~ ~ function cwboom/r6w/start_anger.geneeffect @e[type=foxy:creeper_pig] speed 2 0 trueeffect @e[type=foxy:creeper_cow] speed 2 0 trueeffect @e[type=foxy:creeper_sheep] speed 2 0 truescoreboard players set @e[type=foxy:pacs_boom,scores={tmr.death=-1}] tmr.angry 60

@@ -1,0 +1,1 @@
+scoreboard players set @s tmr.dialogue 80effect @a blindness 60 0 trueeffect @a slowness 60 1 trueeffect @a invisibility 60 0 trueeffect @a slow_falling 20 4 truetp @a 639.5 92.5 169.5 180.0 0.0camerashake stop @aeffect @e[tag=creditsroom] clearscoreboard players add @s cnt.dia.line 1

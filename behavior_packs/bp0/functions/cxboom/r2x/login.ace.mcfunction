@@ -1,0 +1,1 @@
+function pmboom/tfm/track_switch.tfscoreboard players remove @s cnt.mus.line 1scoreboard players set @s sch.login 3event entity @s foxy:load_complete

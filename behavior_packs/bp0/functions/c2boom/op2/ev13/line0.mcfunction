@@ -1,0 +1,1 @@
+scoreboard players set @s ids.room 0playsound foxy.boom.checkpoint @atellraw @a {"rawtext":[{"translate":"foxy.boom.checkpoint"}]}setworldspawn 628 29 113function cwboom/r1w/entity.proteasefill 585 30 159 587 32 179 airfunction pmboom/tfm/play.track1.tftickingarea remove room2.8atickingarea remove room2.8btickingarea remove room2.8ctickingarea remove room2.8d

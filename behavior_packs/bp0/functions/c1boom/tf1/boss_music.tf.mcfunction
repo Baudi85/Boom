@@ -1,0 +1,1 @@
+execute @e[scores={ids.quest=1,ids.dia.event=16..17,ids.track=!7}] ~ ~ ~ detect 679 46 202 air -1 function pmboom/tfm/instant.track7.tf

@@ -1,0 +1,1 @@
+scoreboard players operation @s ids.track = @e[type=foxy:pacs_boom,c=1] ids.track

@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","animation_controllers":{"controller.animation.cat_turret.rotations":{"initial_state":"one","states":{"one":{"transitions":[{"two":"1"}],"on_entry":["/execute @s ~ ~3 ~ execute @p[r=2] ~~~ function cwboom/turret.gene"]},"two":{"transitions":[{"one":"1"}],"on_entry":["/execute @s ~ ~3 ~ execute @p[r=2] ~~~ function cwboom/turret.gene"]}}}}}

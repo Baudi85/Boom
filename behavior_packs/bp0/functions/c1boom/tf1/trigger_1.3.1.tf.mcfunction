@@ -1,0 +1,1 @@
+particle minecraft:totem_particle 738 70 172particle minecraft:critical_hit_emitter 738 70 172execute @a ~ ~ ~ playsound tile.piston.in @s 738 70 172 2.0setblock 738 70 172 air

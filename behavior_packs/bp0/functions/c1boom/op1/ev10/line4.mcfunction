@@ -1,0 +1,1 @@
+scoreboard players set @s tmr.dialogue 10function cwboom/r1w/entity.proteasescoreboard players add @s cnt.dia.line 1

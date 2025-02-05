@@ -1,0 +1,1 @@
+execute @a ~ ~ ~ playsound block.barrel.open @s 618.0 52.0 280.0 2 0.6 2scoreboard players set @s tmr.dialogue 5fill 616 48 280 616 50 280 iron_barsscoreboard players add @s cnt.dia.line 1

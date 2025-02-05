@@ -1,0 +1,1 @@
+scoreboard players set @s ids.room 45playsound foxy.boom.checkpoint @atellraw @a {"rawtext":[{"translate":"foxy.boom.checkpoint"}]}kill @e[type=foxy:creeper_pillager]tickingarea remove room2.5setworldspawn 617 62 253setblock 633 56 225 stonebrick 3setblock 647 50 237 stonebrick 3

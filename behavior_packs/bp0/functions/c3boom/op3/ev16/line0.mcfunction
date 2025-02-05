@@ -1,0 +1,1 @@
+scoreboard players set @s ids.room 13playsound foxy.boom.checkpoint @atellraw @a {"rawtext":[{"translate":"foxy.boom.checkpoint"}]}setworldspawn 789 192 -249function cwboom/r1w/setup_room.tfevent entity @e[type=foxy:hayley] foxy:follow_player

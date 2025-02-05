@@ -1,0 +1,1 @@
+execute @s[scores={cnt.mus.line=1}] ~~~ execute @a ~~~ playsound foxy.boom.music.alarm.loop.1 @sexecute @s[scores={cnt.mus.line=2}] ~~~ execute @a ~~~ playsound foxy.boom.music.alarm.loop.2 @sexecute @s[scores={cnt.mus.line=3}] ~~~ execute @a ~~~ playsound foxy.boom.music.alarm.loop.3 @s

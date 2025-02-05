@@ -1,0 +1,1 @@
+tellraw @a {"rawtext":[{"translate":"foxy.boom.0.4.26"}]}scoreboard players set @s tmr.dialogue 8clear @a name_tagxp -70l @ascoreboard players add @s cnt.dia.line 1

@@ -1,0 +1,1 @@
+scoreboard players set @s ids.room 0summon foxy:argo_target 719 64.6 161summon foxy:hayley_target 713 64.6 163tickingarea remove room1.1

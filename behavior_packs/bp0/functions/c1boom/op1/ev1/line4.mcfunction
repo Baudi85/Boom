@@ -1,0 +1,1 @@
+scoreboard players set @s tmr.dialogue 10event entity @e[type=foxy:cat_cannon] foxy:unlockscoreboard players add @s cnt.dia.line 1

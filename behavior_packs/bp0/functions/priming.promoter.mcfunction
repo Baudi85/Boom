@@ -1,0 +1,1 @@
+execute @e[type=foxy:pacs_boom] ~ ~ ~ function cxboom/hrx/priming.operonexecute @e[type=foxy:pacs_boom] ~ ~ ~ function cdboom/to_do

@@ -1,0 +1,1 @@
+execute @a ~ ~ ~ playsound block.barrel.open @s ~ ~ ~ 2 0.6 2scoreboard players set @s tmr.dialogue 6setblock 686 66 317 stone_slab 8function plboom/detect_lang.metscoreboard players add @s cnt.dia.line 1

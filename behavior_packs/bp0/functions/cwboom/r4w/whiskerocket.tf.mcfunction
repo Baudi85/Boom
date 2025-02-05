@@ -1,0 +1,1 @@
+event entity @s foxy:finish_rocket_triggerreplaceitem entity @s[scores={tmr.whiskerocket=-1}] slot.hotbar 2 carrot_on_a_stick 1 1 {"minecraft:item_lock":{"mode":"lock_in_slot"}}scoreboard players set @s[scores={tmr.whiskerocket=-1}] tmr.whiskerocket 421

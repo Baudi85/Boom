@@ -1,0 +1,1 @@
+execute @a ~ ~ ~ playsound foxy.boom.0.3.8 @s ~ ~ ~ 2.0 1.0 2.0scoreboard players set @s tmr.dialogue 10particle minecraft:large_explosion 690 68 272event entity @a foxy:unfreezeevent entity @e[type=foxy:argo_target] foxy:dev_killevent entity @e[type=foxy:hayley_target] foxy:dev_killscoreboard players add @s cnt.dia.line 1

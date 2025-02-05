@@ -1,0 +1,1 @@
+execute @e[scores={sch.room2.4b=0}] ~ ~ ~ function c2boom/en2/barrier.en

@@ -1,0 +1,1 @@
+execute @a ~ ~ ~ playsound foxy.boom.1.16.6 @stellraw @a {"rawtext":[{"translate":"foxy.boom.1.16.6"}]}execute @e[type=foxy:pacs_boom,scores={ids.dia.event=16}] ~ ~ ~ function cxboom/tfx/finish_dialogue_event.tf

@@ -1,0 +1,1 @@
+scoreboard players set @s ids.bounds 0execute @s[scores={sch.big_coming=!2}] ~ ~ ~ function pmboom/tfm/unpause.track.tf

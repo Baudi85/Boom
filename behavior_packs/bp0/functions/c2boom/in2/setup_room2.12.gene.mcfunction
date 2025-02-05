@@ -1,0 +1,1 @@
+execute @s[scores={cnt.dia.line=-1}] ~ ~ ~ function c2boom/in2/setup_room2.10.gene

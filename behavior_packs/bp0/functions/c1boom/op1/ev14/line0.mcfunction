@@ -1,0 +1,1 @@
+scoreboard players set @s ids.room 9playsound foxy.boom.checkpoint @atp @e[type=foxy:argo] 691 66 197tellraw @a {"rawtext":[{"translate":"foxy.boom.checkpoint"}]}tickingarea add 672 1 192 703 1 223 room1.9tickingarea remove room1.7setworldspawn 709 48 198summon foxy:kyle 688.0 49.0 220.0function c1boom/op1/ev14/linelfunction cwboom/r1w/setup_room.tf

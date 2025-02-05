@@ -1,0 +1,1 @@
+scoreboard players set @s tmr.dialogue 20effect @a cleartp @e[type=foxy:argo_target] 635.5 48.0 273.5tp @e[type=foxy:bill_target] 631.5 48.0 273.5tp @a 635.5 48.0 273.5 90.0 0.0event entity @e[type=foxy:argo_target] foxy:dev_killevent entity @e[type=foxy:bill_target] foxy:dev_killeffect @a saturation 999999 0 truescoreboard players add @s cnt.dia.line 1

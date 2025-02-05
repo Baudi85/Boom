@@ -1,0 +1,1 @@
+particle minecraft:totem_particle 756 67 160particle minecraft:critical_hit_emitter 756 67 160execute @a ~ ~ ~ playsound tile.piston.in @s 756 67 160kill @e[type=foxy:cat_sentry,x=756,y=62,z=160,r=2]summon foxy:cat_sentry 756 67 160

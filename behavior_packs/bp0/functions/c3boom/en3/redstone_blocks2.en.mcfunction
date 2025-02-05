@@ -1,0 +1,1 @@
+setblock 861 165 -271 wool 14fill 858 159 -273 857 166 -274 concretepowder 13fill 857 167 -273 858 174 -274 air

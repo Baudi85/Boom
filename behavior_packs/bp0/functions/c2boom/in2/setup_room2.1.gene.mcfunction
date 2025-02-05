@@ -1,0 +1,1 @@
+summon foxy:breakable_barrier 658 63 162 foxy:east

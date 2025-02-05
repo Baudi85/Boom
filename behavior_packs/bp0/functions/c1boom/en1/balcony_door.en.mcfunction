@@ -1,0 +1,1 @@
+setblock 821 71 210 redstone_torchtellraw @a {"rawtext":[{"translate":"foxy.boom.balcony_door_unlocked"}]}

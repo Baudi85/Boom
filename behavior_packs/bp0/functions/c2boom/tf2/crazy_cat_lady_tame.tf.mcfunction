@@ -1,0 +1,1 @@
+scoreboard players set @e[type=foxy:pacs_boom] sch.cat_lady 1

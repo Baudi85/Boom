@@ -1,0 +1,1 @@
+scoreboard players set @s sch.big_coming 2tellraw @s {"rawtext":[{"translate":"foxy.boom.big_creep.arrival"}]}titleraw @s[scores={tmr.big_creep=-1..20}] actionbar {"rawtext":[{"translate":"foxy.boom.big_creep.timer"},{"text":"0:00§r"}]}scoreboard players set @s tmr.big_arrive 240

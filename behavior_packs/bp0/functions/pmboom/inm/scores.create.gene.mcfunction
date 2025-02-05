@@ -1,0 +1,1 @@
+scoreboard objectives add tmr.music dummyscoreboard objectives add cnt.mus.line dummyscoreboard objectives add ids.track dummyscoreboard objectives add ids.track.queue dummyscoreboard objectives add ids.track.save dummyexecute @e[type=foxy:pacs_boom] ~ ~ ~ function pmboom/inm/scores.set.gene

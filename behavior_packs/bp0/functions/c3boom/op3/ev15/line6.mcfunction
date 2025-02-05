@@ -1,0 +1,1 @@
+execute @a ~ ~ ~ playsound block.barrel.open @s ~ ~ ~ 2 0.6 2scoreboard players set @s tmr.dialogue 40fill 826 171 -240 836 171 -240 airfill 826 172 -240 836 172 -240 stone_slab 8summon foxy:argo_target 831.5 168.0 -242.5summon foxy:bill_target 831.5 168.0 -242.5scoreboard players add @s cnt.dia.line 1

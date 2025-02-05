@@ -1,0 +1,1 @@
+execute @a ~ ~ ~ playsound foxy.boom.2.10.9 @sscoreboard players set @s tmr.dialogue 95fill 613 55 279 611 55 280 air 0 destroyscoreboard players add @s cnt.dia.line 1

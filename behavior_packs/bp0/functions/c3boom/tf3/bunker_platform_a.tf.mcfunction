@@ -1,0 +1,1 @@
+execute @a ~ ~ ~ playsound note.bit @s ~ ~ ~ 2.0 1.0fill 820 113 -148 820 109 -152 concrete 13 replace concrete 14

@@ -1,0 +1,1 @@
+execute @p ~ ~ ~ function cwboom/r1w/player.ub

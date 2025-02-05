@@ -1,0 +1,1 @@
+scoreboard players set @e[type=foxy:pacs_boom] ids.track 2scoreboard players set @e[type=foxy:pacs_boom] ids.track.save 2execute @e[type=foxy:pacs_boom] ~~~ function pmboom/tfm/instant_stop.tf

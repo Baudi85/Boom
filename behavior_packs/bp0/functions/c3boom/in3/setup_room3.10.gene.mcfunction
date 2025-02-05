@@ -1,0 +1,1 @@
+summon foxy:breakable_barrier 848 128 -224 foxy:eastsummon foxy:breakable_barrier 858 124 -233 foxy:platform_topsummon foxy:breakable_barrier 855 124 -227 foxy:platform_topsummon foxy:creeper_pig 852 125 -221 foxy:superchargedsummon foxy:creeper_parrot 863 126 -237 foxy:superchargedsummon foxy:creeper_sheep 841 130 -230summon foxy:creeper_skeleton 830 130 -224

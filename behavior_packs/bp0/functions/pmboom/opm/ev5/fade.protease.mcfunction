@@ -1,0 +1,1 @@
+stopsound @a foxy.boom.music.action.intro.1stopsound @a foxy.boom.music.action.intro.2stopsound @a foxy.boom.music.action.loop

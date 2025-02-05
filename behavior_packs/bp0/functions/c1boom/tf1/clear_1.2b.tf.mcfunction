@@ -1,0 +1,1 @@
+execute @e[type=foxy:pacs_boom,scores={ids.room=2,tmr.death=-1,tmr.dialogue=-1,ids.quest=1}] ~ ~ ~ function c1boom/en1/clear_1.2b.en

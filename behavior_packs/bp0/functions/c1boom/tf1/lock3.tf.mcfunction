@@ -1,0 +1,1 @@
+execute @p ~ ~ ~ detect 793 53 207 air 0 function c1boom/en1/lock3.en

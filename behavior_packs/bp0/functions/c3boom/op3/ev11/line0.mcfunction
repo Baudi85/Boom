@@ -1,0 +1,1 @@
+scoreboard players set @s ids.room 9playsound foxy.boom.checkpoint @atellraw @a {"rawtext":[{"translate":"foxy.boom.checkpoint"}]}setworldspawn 807 121 -156tickingarea add 800 137 -256 863 140 -209 room3.10atickingarea add 768 129 -224 799 143 -209 room3.10bfunction cwboom/r1w/setup_room.tf

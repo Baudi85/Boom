@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","animation_controllers":{"controller.animation.creeper_skeleton.on_death":{"initial_state":"default","states":{"default":{"transitions":[{"dead":"!query.is_alive"}]},"dead":{"on_entry":["/execute @e[type=foxy:pacs_boom,scores={tmr.death=-1,ids.quest=2,ids.room=2}] ~~~ summon foxy:creeper_skeleton 652 63 196 foxy:room_2_2"]}}}}}

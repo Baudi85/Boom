@@ -1,0 +1,1 @@
+stopsound @a foxy.boom.valve_reengageexecute @e[type=foxy:pacs_boom] ~ ~ ~ tellraw @a {"rawtext":[{"translate":"foxy.boom.valve_disengage"}]}execute @a ~ ~ ~ playsound foxy.boom.valve_disengage @s

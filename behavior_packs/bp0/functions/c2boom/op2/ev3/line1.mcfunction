@@ -1,0 +1,1 @@
+scoreboard players set @s tmr.dialogue 10fill 657 65 189 660 65 187 airfill 658 65 186 659 65 186 airsetblock 658 65 190 airfill 661 65 187 661 65 188 stone_slabsetblock 660 65 186 stone_slabsetblock 662 65 187 stone_slabfunction c2boom/op2/ev3/line0scoreboard players add @s cnt.dia.line 1

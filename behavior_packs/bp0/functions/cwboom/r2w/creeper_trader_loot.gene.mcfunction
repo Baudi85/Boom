@@ -1,0 +1,1 @@
+scoreboard players operation @s tmr.death = @e[type=foxy:pacs_boom,c=1] tmr.deathexecute @s[scores={tmr.death=-1}] ~ ~ ~ loot spawn ~ ~ ~ loot "foxy/entities/creeper_trader.loot_table"

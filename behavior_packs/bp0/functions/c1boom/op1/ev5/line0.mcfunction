@@ -1,0 +1,1 @@
+tickingarea add 768 1 224 815 1 255 room1.4tickingarea remove room1.3tp @e[type=foxy:argo] 870 59 212

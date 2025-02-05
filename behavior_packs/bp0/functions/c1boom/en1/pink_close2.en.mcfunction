@@ -1,0 +1,1 @@
+fill 818 44 225 818 45 221 iron_blockexecute @a ~ ~ ~ playsound block.barrel.open @s 819 44 225 2 0.6

@@ -1,0 +1,1 @@
+scoreboard players set @s ids.room 0event entity @e[type=foxy:fear_target] foxy:dev_killsummon foxy:cat_rain 731.0 61.0 280.0tickingarea add 720 1 208 751 1 239 room1.7

@@ -1,0 +1,1 @@
+title @a resettitleraw @a title {"rawtext":[{"translate":"foxy.boom.2.1.16"}]}scoreboard players set @s tmr.dialogue 32tickingarea remove cutscene1tickingarea remove cutscene2tickingarea add 624 2 160 655 2 207 room2.2setblock 670 64 180 redstone_torchscoreboard players add @s cnt.dia.line 1

@@ -1,0 +1,1 @@
+scoreboard players set @s ids.room 0scoreboard players set @s tmr.death -1scoreboard players set @s tmr.angry -1scoreboard players set @s sch.package 0scoreboard players set @s sch.kittycannon 0scoreboard players set @s sch.whiskerocket 0

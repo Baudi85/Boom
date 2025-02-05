@@ -1,0 +1,1 @@
+setblock 749 61 232 lever 3summon foxy:creeper_parrot 725 61 235summon foxy:creeper_pig 742 60 222summon foxy:creeper_pig 735 60 222summon foxy:creeper_pig 728 60 222summon foxy:pig_target 747 60.75 222summon foxy:creeper_cow 745 60 215summon foxy:creeper_cow 738 60 215summon foxy:creeper_cow 731 60 215summon foxy:cow_target 724 60.75 215

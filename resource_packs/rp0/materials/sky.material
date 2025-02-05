@@ -1,0 +1,1 @@
+{"end_sky":{"states":["DisableDepthWrite","DisableAlphaWrite"],"vertexShader":"shaders/uv.vertex","vrGeometryShader":"shaders/uv.geometry","fragmentShader":"shaders/texture_ccolor.fragment","vertexFields":[{"field":"Position"},{"field":"Color"},{"field":"UV0"}],"samplerStates":[{"samplerIndex":0,"textureFilter":"Point"}],"msaaSupport":"Both"}}

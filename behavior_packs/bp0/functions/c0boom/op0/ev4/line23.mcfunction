@@ -1,0 +1,1 @@
+title @a resettitleraw @a title {"rawtext":[{"translate":"foxy.boom.0.4.23"}]}scoreboard players set @s tmr.dialogue 32function pmboom/tfm/play.track1.tfscoreboard players add @s cnt.dia.line 1

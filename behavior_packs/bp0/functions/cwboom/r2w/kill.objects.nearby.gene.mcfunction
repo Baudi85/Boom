@@ -1,0 +1,1 @@
+execute @e[type=foxy:breakable_barrier,r=5,tag=!big] ~ ~ ~ function cwboom/r2w/kill.self.geneexecute @e[type=foxy:mewclear_bomb,r=4] ~ ~ ~ function cwboom/r2w/kill.self.geneexecute @e[type=foxy:cat_sentry,r=4] ~ ~ ~ function cwboom/r2w/kill.self.geneevent entity @e[type=foxy:creeper_tnt,r=3,c=1] foxy:light_fuse

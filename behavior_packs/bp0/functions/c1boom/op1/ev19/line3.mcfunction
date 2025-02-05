@@ -1,0 +1,1 @@
+scoreboard players set @s tmr.dialogue 10event entity @e[type=foxy:hayley_target] foxy:dev_killevent entity @e[type=foxy:button_stand,x=686,y=49,z=181.0,r=4] foxy:unlockscoreboard players add @s cnt.dia.line 1

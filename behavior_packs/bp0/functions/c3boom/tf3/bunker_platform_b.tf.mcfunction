@@ -1,0 +1,1 @@
+fill 831 116 -156 824 113 -146 air 0 destroyfill 831 117 -156 824 117 -156 air 0 destroyfill 831 117 -156 831 117 -152 air 0 destroyplaysound mob.zombie.woodbreak @a ~ ~ ~ 1 0.7 0.8playsound foxy.boom.spider_fall @a ~ ~ ~ 0.5 1.1 0.2

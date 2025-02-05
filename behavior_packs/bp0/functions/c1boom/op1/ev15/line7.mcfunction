@@ -1,0 +1,1 @@
+scoreboard players set @s tmr.dialogue 10event entity @e[type=foxy:kyle] foxy:phase_1_startfunction pmboom/tfm/play.track7.tfscoreboard players add @s cnt.dia.line 1

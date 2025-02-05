@@ -1,0 +1,1 @@
+scoreboard players set @s ids.room 0function pmboom/tfm/play.track2.tfevent entity @e[type=foxy:kyle] foxy:phase_2_beatenplaysound foxy.boom.checkpoint @atickingarea remove room1.9function c1boom/op1/ev17/linel

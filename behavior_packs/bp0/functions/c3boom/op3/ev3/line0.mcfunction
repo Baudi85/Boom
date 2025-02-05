@@ -1,0 +1,1 @@
+function c3boom/in3/setup_room3.2.genescoreboard players set @s ids.room 2playsound foxy.boom.checkpoint @atellraw @a {"rawtext":[{"translate":"foxy.boom.checkpoint"}]}tickingarea remove room3.1atickingarea add 832 44 -288 863 64 -241 room3.3atickingarea add 928 44 -208 943 64 -177 room3.3btickingarea add 784 40 -192 815 68 -161 room3.3csetworldspawn 1091 48 -221

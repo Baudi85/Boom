@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","animation_controllers":{"controller.animation.battle_chonk.hide_rider":{"initial_state":"off","states":{"off":{"transitions":[{"on":"query.has_rider"}]},"on":{"transitions":[{"off":"!query.has_rider"}],"on_entry":["/execute @s ^ ^3.2 ^-0.2 event entity @a[r=4] foxy:enter_tank"]}}}}}

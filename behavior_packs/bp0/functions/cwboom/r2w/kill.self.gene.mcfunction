@@ -1,0 +1,1 @@
+particle minecraft:huge_explosion_emitter ~ ~ ~event entity @s[type=foxy:mewclear_bomb] foxy:boomkill @s[type=!foxy:mewclear_bomb]

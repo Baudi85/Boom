@@ -1,0 +1,1 @@
+scoreboard players set @s tmr.dialogue 15fill 616 48 277 616 50 282 barrierexecute @a ~ ~ ~ detect ~ 0 ~ bedrock -1 tp @s 612.0 48.0 280.0 -90.0 0.0function c2boom/op2/ev10/line0scoreboard players add @s cnt.dia.line 1

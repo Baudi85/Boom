@@ -1,0 +1,1 @@
+title @a resettitleraw @a title {"rawtext":[{"translate":"foxy.boom.3.2.5"}]}scoreboard players set @s tmr.dialogue 30scoreboard players add @s cnt.dia.line 1

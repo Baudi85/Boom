@@ -1,0 +1,1 @@
+scoreboard players set @s tmr.dialogue 10fill 617 56 276 617 48 283 air 0 replace barrierscoreboard players add @s cnt.dia.line 1

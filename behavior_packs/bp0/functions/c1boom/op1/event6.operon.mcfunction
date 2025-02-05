@@ -1,0 +1,1 @@
+execute @s[scores={cnt.dia.line=1,tmr.dialogue=0}] ~ ~ ~ function c1boom/op1/ev6/line1execute @s[scores={cnt.dia.line=0}] ~ ~ ~ function cxboom/tfx/begin_dialogue_event.tfexecute @s[scores={cnt.dia.line=2}] ~ ~ ~ function cxboom/tfx/finish_dialogue_event.tf

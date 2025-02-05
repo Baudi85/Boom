@@ -1,0 +1,1 @@
+scoreboard players remove @s tmr.big_creep 1scoreboard players remove @s[scores={tmr.big_creep.xp=1..}] tmr.big_creep.xp 1scoreboard players set @s[scores={tmr.big_creep.xp=0}] tmr.big_creep.xp 20execute @s[scores={tmr.big_creep.xp=1}] ~ ~ ~ function pbboom/r1b/actionbar.operon

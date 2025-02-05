@@ -1,0 +1,1 @@
+summon foxy:rocket_platform 868 177 -273fill 858 156 -277 858 155 -276 gold_ore

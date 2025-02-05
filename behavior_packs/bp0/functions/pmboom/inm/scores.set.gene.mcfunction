@@ -1,0 +1,1 @@
+scoreboard players set @s tmr.music -1scoreboard players set @s cnt.mus.line 1scoreboard players set @s ids.track 0scoreboard players set @s ids.track.queue 0scoreboard players set @s ids.track.save 0

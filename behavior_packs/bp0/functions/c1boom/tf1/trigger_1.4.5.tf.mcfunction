@@ -1,0 +1,1 @@
+scoreboard players set @e[scores={ids.quest=1,ids.dia.event=5,cnt.dia.line=-1}] ids.room 0execute @e[scores={ids.quest=1,ids.dia.event=5,cnt.dia.line=-1}] ~ ~ ~ function cwboom/r1w/entity.proteasefill 752 55 202 783 58 203 air 0 replace barrierfill 783 58 182 761 55 181 air 0 replace barrierfill 793 53 207 793 53 205 redstone_torch

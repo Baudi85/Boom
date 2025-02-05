@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","animation_controllers":{"controller.animation.scientist.hints":{"initial_state":"start","states":{"start":{"transitions":[{"give_hint":"query.is_powered"}]},"give_hint":{"on_entry":["/function cwboom/r5w/entity.histone","@s foxy:finish_hint"],"transitions":[{"start":"1.0"}]}}}}}

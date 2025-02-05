@@ -1,0 +1,1 @@
+scoreboard players set @s tmr.dialogue 100fill 659 66 179 659 69 190 barrier 0 replace airfill 657 66 179 657 69 190 barrier 0 replace airfill 658 66 178 658 69 178 barrier 0 replace airfill 657 69 190 659 69 179 barrier 0 replace airfunction c2boom/op2/ev1/line0scoreboard players add @s cnt.dia.line 1

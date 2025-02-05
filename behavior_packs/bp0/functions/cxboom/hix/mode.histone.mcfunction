@@ -1,0 +1,1 @@
+execute @s[scores={obj.mode=3}] ~ ~ ~ function cxboom/hix/quest.histone

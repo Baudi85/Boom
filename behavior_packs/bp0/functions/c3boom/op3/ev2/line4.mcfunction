@@ -1,0 +1,1 @@
+execute @a ~ ~ ~ playsound block.barrel.open @s 850 50 115 2 0.6 2scoreboard players set @s tmr.dialogue 8fill 849 51 115 851 51 115 airfill 849 52 115 851 52 115 stone_slab 8function pmboom/tfm/play.track6.tfsummon foxy:graphics.boom_mechanics 849.5 50.0 96.5 foxy:fly_whiskerocketscoreboard players add @s cnt.dia.line 1

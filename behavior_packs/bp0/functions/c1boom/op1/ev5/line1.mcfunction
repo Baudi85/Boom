@@ -1,0 +1,1 @@
+scoreboard players set @s tmr.dialogue 50function c1boom/op1/ev5/line0scoreboard players add @s cnt.dia.line 1

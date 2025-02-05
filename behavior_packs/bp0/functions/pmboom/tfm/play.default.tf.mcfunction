@@ -1,0 +1,1 @@
+scoreboard players set @e[type=foxy:pacs_boom] ids.track 0scoreboard players set @e[type=foxy:pacs_boom] ids.track.save 0

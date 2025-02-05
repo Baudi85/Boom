@@ -1,0 +1,1 @@
+fill 876 58 217 876 56 217 nether_brickscoreboard players set @e[type=foxy:pacs_boom,scores={ids.room=55}] ids.room 0

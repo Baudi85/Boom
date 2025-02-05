@@ -1,0 +1,1 @@
+function pmboom/tfm/unpause.track.tfscoreboard players set @s sch.big_coming 0

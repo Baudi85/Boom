@@ -1,0 +1,1 @@
+kill @e[type=falling_block]kill @e[type=tnt]fill 636 46 -95 746 46 -49 tnt 0 replace airfill 625 46 -48 685 46 -2 tnt 0 replace airfill 636 47 -95 746 47 -49 sand 0 replace airfill 625 47 -48 685 47 -2 sand 0 replace airfill 636 48 -95 746 48 -49 stone_pressure_plate 0 replace airfill 625 48 -48 685 48 -2 stone_pressure_plate 0 replace air

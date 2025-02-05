@@ -1,0 +1,1 @@
+execute @e[type=foxy:kyle] ~ ~ ~ playsound foxy.boom.1.16.4 @a

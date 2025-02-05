@@ -1,0 +1,1 @@
+scoreboard players set @s tmr.dialogue 10setblock 719 61 161 redstone_torchsummon foxy:argo_target 737 67.6 165summon foxy:hayley_target 727 67.6 165scoreboard players add @s cnt.dia.line 1

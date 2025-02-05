@@ -1,0 +1,1 @@
+summon foxy:breakable_barrier 705 29 235 foxy:northsouth_bigsummon foxy:breakable_barrier 711 29 248 foxy:eastwest_bigsummon foxy:breakable_barrier 693 29 241 foxy:northsouth_bigsummon foxy:breakable_barrier 671 29 274 foxy:eastwest_bigexecute @s[scores={cnt.dia.line=-1}] ~ ~ ~ function c2boom/in2/setup_room2.10.gene

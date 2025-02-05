@@ -1,0 +1,1 @@
+fill 609 65 299 615 65 299 sealanternsummon foxy:creeper_illusioner 613 62 299summon foxy:creeper_illusioner 613 62 301summon foxy:creeper_illusioner 609 62 299summon foxy:creeper_illusioner 609 62 301scoreboard players set @e[type=foxy:pacs_boom] sch.room2.4b 1

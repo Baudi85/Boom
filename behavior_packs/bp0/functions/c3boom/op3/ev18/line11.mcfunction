@@ -1,0 +1,1 @@
+playsound foxy.boom.3.18.11 @atitleraw @a actionbar {"rawtext":[{"translate":"foxy.boom.3.18.11"}]}scoreboard players set @s tmr.dialogue 30time set dayscoreboard players add @s cnt.dia.line 1

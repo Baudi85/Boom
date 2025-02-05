@@ -1,0 +1,1 @@
+scoreboard players set @s tmr.dialogue 30function c3boom/op3/ev9/line0tickingarea remove room3.6atickingarea remove room3.6btickingarea remove room3.6ctickingarea remove room3.6dscoreboard players add @s cnt.dia.line 1

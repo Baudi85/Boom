@@ -1,0 +1,1 @@
+scoreboard players set @e[type=foxy:pacs_boom] sch.room2.6b 1summon foxy:creeper_pillager 647 53 210summon foxy:creeper_pillager 645 55 225summon foxy:creeper_pillager 643 48 229summon foxy:creeper_pillager 652 55 252summon foxy:creeper_pillager 637 55 253

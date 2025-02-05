@@ -1,0 +1,1 @@
+scoreboard players set @s ids.room 5playsound foxy.boom.checkpoint @atellraw @a {"rawtext":[{"translate":"foxy.boom.checkpoint"}]}setworldspawn 623.0 48.0 280.0function cwboom/r1w/setup_room.tf

@@ -1,0 +1,1 @@
+scoreboard players set @s tmr.whiskerocket -1replaceitem entity @s slot.hotbar 2 clay_ball 1 0 {"minecraft:item_lock":{"mode":"lock_in_slot"}}

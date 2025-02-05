@@ -1,0 +1,1 @@
+execute @s[scores={cnt.mus.line=!-1}] ~~~ stopsound @a foxy.boom.music.action.intro.1execute @s[scores={cnt.mus.line=!0}] ~~~ stopsound @a foxy.boom.music.action.intro.2execute @s[scores={cnt.mus.line=!1..12}] ~~~ stopsound @a foxy.boom.music.action.loop
